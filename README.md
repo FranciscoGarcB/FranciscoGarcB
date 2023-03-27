@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">I'm a current student of Engineering physics at Tec de Monterrey, but I'm a passionate from astronomy and space science.</h3>
+<h3 align="center">I'm a current student of Engineering physics at Tec de Monterrey, but I'm a passionate of Data Science and astronomy.</h3>
 
 - 🌱 I’m currently learning **SQL and Python for Data Science**
 
