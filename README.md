@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">I'm a current student of Engineering physics at Tec de Monterrey, but I'm a passionate of Data Science and Astronomy.</h3>
+## 👋 &nbsp;Hey there! I'm Francisco
 
-- 🌱 I’m currently learning **SQL and Python for Data Science**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 📫 How to reach me: **franciscogarcb@outlook.com**
+💡 &nbsp; I have a deep passion for science and bringing data to life through visualization.\
+🎓 &nbsp;I'm an Physics Engineer from Tecnológico de Monterrey.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17FaxjMTAwlNuziVGv4dSNm1COeW7_Zph/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/franciscogarcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franciscogarcb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/franciscogarcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscogbarrada" height="30" width="40" /></a>
-<a href="https://instagram.com/franciscogarcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franciscogarcb" height="30" width="40" /></a>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FranciscoGarcB">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranciscoGarcB&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranciscoGarcB&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://linkedin.com/in/FranciscoGarcB"><img src="https://img.shields.io/badge/-Francisco%20Garcia%20Barrada-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:FranciscoGBarrada@gmail.com"><img src="https://img.shields.io/badge/-FranciscoGBarrada@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
