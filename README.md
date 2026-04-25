@@ -5,7 +5,6 @@
 💡 &nbsp; I have a deep passion for science and bringing data to life through visualization.\
 🎓 &nbsp;I'm a Physics Engineer from Tecnológico de Monterrey.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17FaxjMTAwlNuziVGv4dSNm1COeW7_Zph/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
