@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I have a deep passion for science and bringing data to life through visualization.\
-🎓 &nbsp;I'm a Physics Engineer from Tecnológico de Monterrey.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
+💡 &nbsp; I have a deep passion for science and bringing data to life through visualization.
+🎓 &nbsp;I'm a Physics Engineer from Tecnológico de Monterrey.
+🌱 &nbsp;I'm on track for learning more about high performance computing and machine learning.
 
 
 ### 🛠 &nbsp;Tech Stack
